@@ -37,4 +37,4 @@ to run tests, after running `npm i`, run the command `npm test`
 
 ## UML
 
-![UML image]()
+![UML image](./UML.jpeg)
