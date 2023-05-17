@@ -8,11 +8,12 @@ From a business requirements standpoint, we will be building a basic Express ser
 
 ## Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/Hcooper23/example-server/actions/runs/4987580924)
-- [back-end dev server url](https://devexampleserver.onrender.com/)
+- [GitHub Actions ci/cd](https://github.com/Hcooper23/basic-express-server/actions)
+- [back-end dev server url](https://devbasicexpressserver.onrender.com/)
 
 ## Collaborators
- Kenya Womack 
+
+ Kenya Womack
  Kao Saelor
  Coriana Williams
 
@@ -36,4 +37,4 @@ to run tests, after running `npm i`, run the command `npm test`
 
 ## UML
 
-![UML image](./assets//example-server-uml.png)
+![UML image]()
