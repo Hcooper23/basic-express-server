@@ -8,8 +8,8 @@ From a business requirements standpoint, we will be building a basic Express ser
 
 ## Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/Hcooper23/basic-express-server/actions)
-- [back-end dev server url](https://devbasicexpressserver.onrender.com/)
+- [GitHub Actions ci/cd](https://github.com/Hcooper23/api-server/actions)
+- [back-end dev server url](https://mainapiserver.onrender.com/)
 
 ## Collaborators
 
