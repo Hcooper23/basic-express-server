@@ -4,18 +4,33 @@
 
 ## Problem Domain
 
-From a business requirements standpoint, we will be building a basic Express server using best practices, including server modularization, use of middleware, and tests.
+- Deploy a simple Node.js server to EC2, using Elastic Beanstalk
+
+        - Choose a server you’ve built previously
+
+            - Option 1: A simple API or Web Server
+            - Option 2: A socket.io event Hub
+            - The server should not require a database
+
+- Check in your server to GitHub
+  - Task 1:
+
+    - Create a new environment, using Elastic Beanstalk from the AWS Control Panel (GUI)
+        Manually deploy your application to this environment by uploading a .zip file
+  - Task 2:
+
+- Using the same server, create a new environment using Elastic Beanstalk from your terminal
+
+- Manually deploy your application to this environment by using eb deploy
 
 ## Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/Hcooper23/api-server/actions)
-- [back-end dev server url](https://mainapiserver.onrender.com/)
+- [GitHub Actions ci/cd](http://basic-express-server-dev.us-east-2.elasticbeanstalk.com/)
+- [back-end dev server url](http://labawscloudservers-env.eba-aiqvft42.us-east-2.elasticbeanstalk.com/)
 
 ## Collaborators
 
- Kenya Womack
- Kao Saelor
- Coriana Williams
+Ryan Gallaway
 
 ## Setup ///
 
